@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "793373539172",
+    "firebase_url": "https://androidfacebooklogin.firebaseio.com",
+    "project_id": "androidfacebooklogin",
+    "storage_bucket": "androidfacebooklogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793373539172:android:075dcb8f4c340d66",
+        "android_client_info": {
+          "package_name": "tech.alvarez.androidfacebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "793373539172-d1ojv71kd0a3c3ffejnalpvf9j7oc03h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqDmDVv7HXLv9DBvR9fp3ZQm262oez-s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
